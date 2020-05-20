@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de98d7e5-5026-45da-8378-24124d363c68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/LinkCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/LinksList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/LinksTopList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/auth.hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/http.hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/message.hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/AuthPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/CreatePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/DetailPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/LinkTopPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/LinksPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1Zc4Kq7s3661OCodS9dYCnhiMlA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de98d7e5-5026-45da-8378-24124d363c68" name="Default Changelist" comment="" />
+      <created>1585124987901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585124987901</updated>
+      <workItem from="1585124989274" duration="841000" />
+      <workItem from="1585126817132" duration="18000" />
+      <workItem from="1585126861750" duration="1326000" />
+      <workItem from="1585128215229" duration="27509000" />
+      <workItem from="1585297539633" duration="7309000" />
+      <workItem from="1585383809585" duration="7883000" />
+      <workItem from="1585559949977" duration="2405000" />
+      <workItem from="1585906211515" duration="12819000" />
+      <workItem from="1585988732330" duration="5649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
